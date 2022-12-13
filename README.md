@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenAarvik
-- 👀 I’m interested in Azure
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Terraform
 - 📫 How to reach me www.linkedin.com/in/bendik-aarvik
 
